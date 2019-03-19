@@ -4,4 +4,4 @@
 - [x] 分布式ID生成方案，基于Redis
 - [x] java信号处理测试
 - [x] Netty测试
-- [x]  
+- [x] 获取java线程id，我的博客文章：https://blog.csdn.net/TNT_wang/article/details/88626147 
