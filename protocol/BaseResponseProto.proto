@@ -1,0 +1,13 @@
+syntax = "proto2";
+
+
+option java_package = "com.daily.code.dailycode.netty.protocol";
+option java_outer_classname = "Response";
+
+
+message CIMResProtocol {
+  required int64 responseId = 2;
+  required string resMsg = 1;
+  required int32 type = 3;
+
+}
